@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7130d551-b358-4ea8-af9b-8d1ada6e6ee3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/myProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myProject.iml" afterDir="false" />
+    <list default="true" id="7130d551-b358-4ea8-af9b-8d1ada6e6ee3" name="Default Changelist" comment="add Regression Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_tests/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional_tests/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577252076627</updated>
-      <workItem from="1577899585645" duration="696000" />
+      <workItem from="1577899585645" duration="1741000" />
     </task>
+    <task id="LOCAL-00001" summary="add Regression Test">
+      <created>1577900385479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577900385480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -76,7 +84,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Regression Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Regression Test" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="283" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1577900399627">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="283" y="27" width="860" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1577900399627" />
     <state x="207" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1577899703865">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
